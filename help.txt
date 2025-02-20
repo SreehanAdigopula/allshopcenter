@@ -1,0 +1,698 @@
+h1{
+          line-height: 64px;
+          font-size: 50px;
+          color: darkcyan;
+        }
+
+        h2{
+          font-size: 46px;
+          line-height: 54;
+          color: black;
+        }
+
+        h4{
+          font-size: 20px;
+          color: #222;
+        }
+
+        p{
+        font-size: 16;
+        color: #465b52;
+        margin: 15px 0 20px 0;  
+        }]
+
+
+
+<section id="feature">
+       <div class="fe-box">
+         <img src="img/features/f1.png">
+         <h6>Free Shipping</h6>
+       </div>
+     </section>
+
+
+
+
+
+ 
+         <div class="pro">
+           <img src="img/products/f7.jpg">
+           <div class="des">
+             <span>Adidas</span>
+             <h5>Flower Pants(women)</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+             </div>
+             <h4>$34</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/f8.jpg">
+           <div class="des">
+             <span>Adidas</span>
+             <h5>Skirt</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+              
+             </div>
+             <h4>$18</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         
+      
+         <div class="pro">
+           <img src="img/products/f6.jpg">
+           <div class="des">
+             <span>Adidas</span>
+             <h5>Duo color T-Shirt</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+              
+             </div>
+             <h4>$54</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+          <div class="pro">
+           <img src="img/products/n1.jpg">
+           <div class="des">
+             <span>Adidas</span>
+             <h5>Shirt (Sky) blue</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               
+             </div>
+             <h4>$12</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/n2.jpg">
+           <div class="des">
+             <span>Adidas</span>
+             <h5>Grey Shirt</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               
+             </div>
+             <h4>$7</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/n3.jpg">
+           <div class="des">
+             <span>Adidas</span>
+             <h5>Shirt White</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+              
+             </div>
+             <h4>$12</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+       </div>
+               <div class="pro">
+           <img src="img/products/n4.jpg">
+           <div class="des">
+             <span>Adidas</span>
+             <h5>Duo color T-Shirt</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+              
+             </div>
+             <h4>$54</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+          <div class="pro">
+           <img src="img/products/n5.jpg">
+           <div class="des">
+             <span>Adidas</span>
+             <h5>Iphone 14 Pro Yellow</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+             </div>
+             <h4>$610.34</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/n7.jpg">
+           <div class="des">
+             <span>Adidas</span>
+             <h5>Night Sky Painting</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               
+             </div>
+             <h4>$39.35</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/n8.jpg">
+           <div class="des">
+             <span>Adidas</span>
+             <h5>Cookers</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+              
+             </div>
+             <h4>$12</h4>
+           </div>
+           
+         <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+
+         </div>
+
+
+
+
+
+
+
+
+
+
+
+
+gadget
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AllShopCenter</title>
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+<link rel="icon" type="image/x-icon" href="img/favicon.ico">
+        <link rel="stylesheet" href="style.css">
+      <style>
+        
+        
+        #header{
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          padding: 20px 80px;
+          background: #E3E6F3;
+          box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+          z-index: 999;
+          position: sticky;
+          top: 0;
+          left: 0;
+        }
+        #navibar{
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+
+        #navibar li{
+          list-style: none;
+          padding: 0 20px;
+        }
+
+        #navibar li a{
+          text-decoration: none;
+          font-size: 16px;
+          font-weight:600;
+          color: black;
+          transition: 0.3s ease;
+        }
+     
+        #navibar li a: hover,
+        #navibar li a.active{
+           color: #088178;
+         }
+        #navibar li a.active::after,
+        #navibar li.a:hover::after {
+          content:"";
+          width:30%;
+          height: 2px;
+          background: #088178;
+          position: absolute;
+          bottom: -4px;
+          left: 20px;
+        }
+
+        #hero{
+          background-image: url("img/d2.png");
+          height: 90vh;
+          width: 100%;
+          background-size: cover;
+          background-position: top 20% right 0;
+          padding: 0 80px;
+          display: flex;
+          flex-direction: column;
+          align-items: flex-start;
+          justify-content: center;
+        }
+
+        #hero h4{
+          padding-bottom: 15px;
+        }
+        #hero h1{
+          color: darkcyan;
+        }
+        #hero button{
+          background-image: url("img/button.png");
+          background-color: transparent;
+          color: darkcyan;
+          border: 0;
+          padding: 14px 80px 14px 65px;
+          background-repeat: no-repeat;
+          cursor: pointer;
+          font-weight: 700;
+          font-size: 15px;
+        }
+ /*the methods to make the cards*/       
+.section-p1{
+  padding: 4px 80px;
+}
+        #product1{
+          text-align: center;
+        }
+
+
+
+        #product1 .pro-container{
+          display: flex;
+          justify-content: space-between;
+          padding: 20px;
+          flex-wrap: wrap;
+        }
+
+        #product1 .pro{
+          width: 23%;
+          min-width: 250px; 
+          padding: 10px 12px;
+          border: 1px solid #cce7d0; 
+          border-radius: 25px;
+          cursor: pointer;
+          box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);
+          margin: 15px 0;
+          transition: 0.2s ease;
+          position: relative;
+        }
+
+        #product1 .pro:hover{
+          box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
+        }
+
+        #product1 .pro img{
+          width: 100%;
+          border-radius: 20px;
+        }
+
+        #product1 .pro .des{
+          text-align: start;
+          padding: 10px 0;
+        }
+
+        #product1 .pro .des span{
+          color: #606063;
+          font-size: 12px;
+        }
+        #product1 .pro .des h5{
+          padding-top: 7px;
+          color: #1a1a1a;
+          font-size: 14px;
+        }
+
+        #product1 .pro .des i{
+          font-size: 12px;
+          color: gold;
+        }
+
+        #product1 .pro .des h4{
+          padding-top: 7px;
+          font-size: 15px;
+          font-weight: 700;
+          color: #088178;
+        }
+        #product1 .pro .cart{
+          width: 40px;
+          height: 40px;
+          line-height: 40px;
+          border-radius: 50px;
+          background-color: #e8f6ea;
+          font-weight: 500;
+          color: darkcyan;
+          border: 1px solid #cce7d0;
+          position: absolute;
+          bottom: 20px;
+          right: 10px;
+        }
+
+        #banner{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          text-align: center;
+          background: url("img/banner/offf.png");
+          width: 100%;
+          height: 40vh;
+          background-size: cover;
+          background-position: center;
+        }
+
+
+        #banner h4{
+          color: white;
+          font-size: 16px;
+        }
+
+
+        #banner h2{
+          color: white;
+          font-size: 30px;
+          padding: 10px 0;
+        }
+
+        #banner h2 span{
+          color: red;
+        }
+        #banner button:hover{
+          background: darkcyan;
+          color: white;
+        }
+
+        #sm-banner{
+          display: flex;
+          justify-content: space-between;
+          flex-wrap: wrap;
+        }
+
+
+        #page-header{
+          background-image: url("img/banner/gadget.png");
+          width: 100%;
+          height: 80vh;
+          background-size: cover;
+          display: flex;
+          justify-content: center;
+          text-align: center;
+          flex-direction: column;
+          padding: 14px;
+        }
+
+        #pagination{
+          text-align: center;
+          
+        }
+
+
+
+        #pagination a{
+          text-decoration: none;
+          background-color: darkcyan;
+          padding: 15px 20px;
+          border-radius: 4px;
+          color: white;
+          font-weight: 600;
+        }
+
+
+        #pagination a i{
+          font-size: 16px;
+          font-weight: 600;
+        }
+       
+	</style>
+      
+    </head>
+
+    <body>
+      <section id="header">
+        <a href="#"><img src="/img/apple-touch-icon.png" class="logo" width="85px"></a>
+        <div>
+          <ul id="navibar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="food.html"class="active">Food</a></li>
+            <li><a href="clothes.html">Clothes</a></li>
+            <li><a href="electronic.html">Electronic</a></li>
+            <li><a href="house.html">HouseHold</a></li>
+            <li><a href="gadgets.html">Gadgets</a></li>
+            
+            <li><a href="cart.html"><i class="far fa-shopping-bag"></i></a></li>
+          </ul>
+          
+        </div>
+      </section>
+       
+       
+     <section id="page-header">
+      
+       <h2>#GadgetShop</h2>
+     
+       
+     </section>
+
+     <section id="product1" class="section-p1">
+       
+       <div class="pro-container">
+         <div class="pro">
+           <img src="img/products/bed2.jpg">
+           <div class="des">
+             <span>Ikea</span>
+             <h5>Queen Size Bed Type1</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               
+             </div>
+             <h4>$388</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/bedo.jpg">
+           <div class="des">
+             <span>Ikea</span>
+             <h5>Queen Sized Bed Type2</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+              
+             </div>
+             <h4>$412</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/black spoons.jpeg">
+           <div class="des">
+             <span>Ikea</span>
+             <h5>Kitchen Spoons</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               
+             </div>
+             <h4>$6</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/bed.jpeg">
+           <div class="des">
+             <span>Ikea</span>
+             <h5>Bed</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+             </div>
+             <h4>$220.99</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/painting 2.jpg">
+           <div class="des">
+             <span>Kurts</span>
+             <h5>Hexagon Paintings</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               
+             </div>
+             <h4>$80</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/plammix plant.jpeg">
+           <div class="des">
+             <span>Ikea</span>
+             <h5>Malm Plant</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+             </div>
+             <h4>$7</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/cooler plate.jpg">
+           <div class="des">
+             <span>Ikea</span>
+             <h5>Gold colored plates with Black Face</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               
+             </div>
+             <h4>$4</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         <div class="pro">
+           <img src="img/products/painting.jpg">
+           <div class="des">
+             <span>Kurts</span>
+             <h5>Buddha Painting</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               
+             </div>
+             <h4>$15</h4>
+           </div>
+           <a href="cart.html"><i class="fal fa-shopping-cart cart" ></i> </a>
+         </div>
+         
+      
+         <div class="pro">
+           <img src="img/products/pan.jpg">
+           <div class="des">
+             <span>Ikea</span>
+             <h5>Pan</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+              
+             </div>
+             <h4>$5</h4>
+           </div>
+           
+         </div>
+         <div class="pro">
+           <img src="img/products/plastic spoons.jpg">
+           <div class="des">
+             <span>Prestige</span>
+             <h5>Plastic Kitchen Spoons</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               
+             </div>
+             <h4>$6</h4>
+           </div>
+           
+         </div>
+         <div class="pro">
+           <img src="img/products/wodden spoons.jpeg">
+           <div class="des">
+             <span>Prestige</span>
+             <h5>Wooden Spoons</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               
+             </div>
+             <h4>$9</h4>
+           </div>
+           
+         </div>
+         <div class="pro">
+           <img src="img/products/plate2.jpg">
+           <div class="des">
+             <span>Prestige</span>
+             <h5>Seramic Plates</h5>
+             <div class="star">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+              
+             </div>
+             <h4>$8</h4>
+           </div>
+           
+         
+         
+       </div>
+     </section>
+
+     
+        <script src="script.js"></script>
+    </body>
+
+</html>
+
+
+ @media (max-width:799px){
+         #navibar{
+           display: flex;
+           flex-direction: column;
+           align-items: flex-start;
+           justify-content: flex-start;
+           background: #E3E6F3;
+           box-shadow: 0 40px 60px rgba(0, 0, 0, 0.01);
+           
+         }
